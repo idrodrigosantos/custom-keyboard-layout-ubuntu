@@ -49,7 +49,29 @@ Salvar as alterações do arquivo e reiniciar o sistema.
 
 ## Adicionar Layout
 
-[Como adicionar layout no Ubuntu](https://github.com/idrodrigosantos/custom-keyboard-layout-ubuntu/wiki/Instru%C3%A7%C3%B5es-de-Uso)
+1. Acesse as configurações do sistema no menu `Região e Idioma` em `Fontes de entrada` adicione um novo layout click no botão com o ícone `+`
+
+![layout01](https://user-images.githubusercontent.com/23555768/196052913-de26a706-7d38-477b-b9f7-47d8948e4b29.png)
+
+2. Click no botão com três pontos na vertical
+
+![layout02](https://user-images.githubusercontent.com/23555768/196052919-02a8155a-bec0-414d-addc-8301281d1f28.png)
+
+3. Na barra de pesquisa digite `Português (para teclados americanos)` para encontrar o layout
+
+![layout03](https://user-images.githubusercontent.com/23555768/196052925-10771d58-ac7d-4a54-a396-3197b87644ea.png)
+
+4. Acesse o menu `Outro`, selecione o layout e click no botão `Adicionar`
+
+![layout04](https://user-images.githubusercontent.com/23555768/196052928-7bb451e4-e23e-4b7d-a6d9-45b387b68061.png)
+
+5. O layout estará disponível para uso
+
+![layout05](https://user-images.githubusercontent.com/23555768/196052935-c3ae16bd-c837-4b0f-b2d4-6152570cc649.png)
+
+6. Para usar o layout selecione no menu do Ubuntu
+
+![layout06](https://user-images.githubusercontent.com/23555768/196052941-a32d5a43-16af-4fcb-9936-5da717656c26.png)
 
 ### Fonte
 
