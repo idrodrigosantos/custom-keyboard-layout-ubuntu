@@ -44,7 +44,9 @@ Antes do fechamento da tag `</layoutList>` adicionar o código:
 
 Salvar as alterações do arquivo e reiniciar o sistema.
 
-Após reiniciar, acessar as configurações do sistema, no menu `Região e Idioma` em `Fontes de entrada` adicione um novo layout selecionando o ícone `+`, depois selecione o ícone com três pontos, na barra de pesquisa procure pelo layout `Português (para teclados americanos)`, selecione e adicione o layout.
+## Adicionar Layout
+
+[Como adicionar layout no Ubuntu](https://github.com/idrodrigosantos/custom-keyboard-layout-ubuntu/wiki/Instru%C3%A7%C3%B5es-de-Uso)
 
 ### Fonte
 
