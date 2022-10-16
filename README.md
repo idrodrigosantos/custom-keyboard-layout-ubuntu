@@ -26,20 +26,23 @@ cd /usr/share/X11/xkb/rules
 
 Abrir o arquivo `evdev.xml` com algum editor de texto (Nano, Gedit, Visual Studio Code, etc).
 
-Antes do fechamento da tag `</layoutList>` adicionar o código:
+Antes da tag `</layoutList>` adicionar o código:
 
 ```xml
-<layout>
-  <configItem>
-  <name>pten</name>
-  <shortDescription>pten</shortDescription>
-  <description>Português (para teclados americanos)</description>
-  <languageList>
-    <iso639Id>pte</iso639Id>
-  </languageList>
-  </configItem>
-  <variantList></variantList>
-</layout>
+<layoutList>
+  <!-- código omitido -->
+  <layout>
+    <configItem>
+      <name>pten</name>
+      <shortDescription>pten</shortDescription>
+      <description>Português (para teclados americanos)</description>
+      <languageList>
+        <iso639Id>pte</iso639Id>
+      </languageList>
+    </configItem>
+    <variantList></variantList>
+  </layout>
+</layoutList>
 ```
 
 Salvar as alterações do arquivo e reiniciar o sistema.
